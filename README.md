@@ -23,6 +23,3 @@ Each model type is tailored to address the complex patterns and dependencies of 
 ## Results
 The project showcases the capabilities of deep learning models to outperform traditional statistical methods, with the BiLSTM model demonstrating the most accurate and reliable predictions. Results are detailed in the respective sections for each model type, along with comparisons and evaluations based on RMSE metrics.
 
-## Acknowledgements
-- Team Members: Xinzhe(Michael) Xie, Wenbin Fang, Ge Tong, Heyang Jiao
-
